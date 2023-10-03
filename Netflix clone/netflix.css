@@ -282,6 +282,9 @@ input[type="radio"]{
 }
 .acordion input[type="radio"]:checked + label::after{
     transform: rotate(45deg);
+}
+.cl{
+    text-align: center;
 } 
 .footer{
     padding: 50px 15% 10px;
